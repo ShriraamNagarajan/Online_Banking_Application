@@ -1,0 +1,10 @@
+james,0000000000,Savings,150,Account Created on 2021-12-12
+robert,0000000001,Current,550,Account Created on 2021-12-12
+david,0000000002,Savings,120,Account Created on 2021-12-12
+ali,0000000003,Current,4150.700000000001,Account Created on 2021-12-12;Deposited 150.70 on 2021-12-12;Withdrawn 5000 on 2021-12-12;Withdrawn 1000 on 2021-12-12
+abu,0000000004,Savings,150.50,Account Created on 2021-12-12
+kamal,0000000005,Current,600,Account Created on 2021-12-12
+anthony,0000000006,Savings,150,Account Created on 2021-12-12
+aziq,0000000007,Savings,150,Account Created on 2021-12-12
+steven,0000000008,Current,15000,Account Created on 2021-12-12
+johnson,0000000009,Savings,150,Account Created on 2021-12-12

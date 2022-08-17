@@ -1,0 +1,10 @@
+james,12,james@mail.com,Savings,james120000,0000000000
+robert,39,robert@hotmail.com,Current,robert390001,0000000001
+david,36,david@gmail.com,Savings,david360002,0000000002
+ali,12,ali@ymail.com,Current,aliabc1234,0000000003
+abu,25,abu@mail.com,Savings,abu250004,0000000004
+kamal,12,kamal@mail.com,Current,kamal120005,0000000005
+anthony,30,anthony@mail.com,Savings,anthony300006,0000000006
+aziq,68,aziq@mail.com,Savings,aziq680007,0000000007
+steven,5,steven@gmail.com,Current,steven50008,0000000008
+johnson,12,johnson@gmail.com,Savings,johnson120009,0000000009
